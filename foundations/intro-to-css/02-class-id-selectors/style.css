@@ -1,0 +1,20 @@
+/* style.css */
+
+.odd-number {
+    background-color: #e89ec2;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#line_two {
+  color: #292dab;
+  font-size: 32px;
+}
+
+.line_three {
+  font-size: 24px;
+}
+#line_four {
+    background-color: #b5d9b0;
+    font-size: 24px;
+    font-weight: bold;
+}
